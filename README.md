@@ -17,7 +17,7 @@ Turtle (for drawing a graphical representation of a maze)
 
 
 ### **Display a graphical representation of a maze:**
-'$ python tester.py test_maze_01.txt'
+\$ python tester.py test_maze_01.txt\
 
 
 ### **Run the robot through a maze:**
