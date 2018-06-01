@@ -24,8 +24,11 @@ Turtle (for drawing a graphical representation of a maze)
 '$ python tester.py test_maze_01.txt'
 
 ### **Or if run the code in IPython Notebook:** 
-change the code in line 28 of tester.py 'testmaze = Maze( str(sys.argv[1]) )' 
-to 'testmaze = Maze('file name for a test maze')'. 'file name for a test maze' can be 'test_maze_01.txt', 'test_maze_02.txt' and so on.
+change the code in line 28 of tester.py 
+'testmaze = Maze( str(sys.argv[1]) )' 
+to 
+'testmaze = Maze('file name for a test maze')'. 
+'file name for a test maze' can be 'test_maze_01.txt', 'test_maze_02.txt' and so on.
 
 
 ### **Batch run the robot through the randomly generated maze:**
