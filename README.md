@@ -27,8 +27,7 @@ Turtle (for drawing a graphical representation of a maze)
 change the code in line 28 of tester.py 
 `testmaze = Maze( str(sys.argv[1]) )`
 to 
-`testmaze = Maze('file name for a test maze')` 
-'file name for a test maze' can be 'test_maze_01.txt', 'test_maze_02.txt' and so on.
+`testmaze = Maze('file name for a test maze')` , where 'file name for a test maze' can be 'test_maze_01.txt', 'test_maze_02.txt' and so on.
 
 
 ### **Batch run the robot through the randomly generated maze:**
