@@ -21,13 +21,13 @@ Turtle (for drawing a graphical representation of a maze)
 
 
 ### **Run the robot through a maze:**
-'$ python tester.py test_maze_01.txt'
+`$ python tester.py test_maze_01.txt`
 
 ### **Or if run the code in IPython Notebook:** 
 change the code in line 28 of tester.py 
-'testmaze = Maze( str(sys.argv[1]) )' 
+`testmaze = Maze( str(sys.argv[1]) )`
 to 
-'testmaze = Maze('file name for a test maze')'. 
+`testmaze = Maze('file name for a test maze')` 
 'file name for a test maze' can be 'test_maze_01.txt', 'test_maze_02.txt' and so on.
 
 
