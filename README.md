@@ -1,11 +1,11 @@
-### capstone-project
+# capstone-project
 ## **Plot and Navigate a Virtual Maze**
 
-# **Overview:**
+### **Overview:**
 This project is based off the micromouse competitions and is, in fact, a virtual version of it, wherein a virtual robot mouse is placed in an unknown maze and firstly tries to map out the maze to figure out the optimal path from a corner of maze to its center. In the 2nd run, the virtual robot mouse attempts to reach the center in the fastest time possible by using what it has learned. 
 
 
-# **Requirement:**
+### **Requirement:**
 
 Python 2.7
 
@@ -16,23 +16,23 @@ numpy
 Turtle (for drawing a graphical representation of a maze)
 
 
-# **Display a graphical representation of a maze:**
+### **Display a graphical representation of a maze:**
 '$ python tester.py test_maze_01.txt'
 
 
-# **Run the robot through a maze:**
-$ python tester.py test_maze_01.txt
+### **Run the robot through a maze:**
+'$ python tester.py test_maze_01.txt'
 
-Or if run the code in IPython Notebook: 
-change the code in line 28 of tester.py: testmaze = Maze( str(sys.argv[1]) ) 
-to: testmaze = Maze('file name for a test maze'). 'file name for a test maze' can be 'test_maze_01.txt', 'test_maze_02.txt' and so on.
+### **Or if run the code in IPython Notebook:** 
+change the code in line 28 of tester.py 'testmaze = Maze( str(sys.argv[1]) )' 
+to 'testmaze = Maze('file name for a test maze')'. 'file name for a test maze' can be 'test_maze_01.txt', 'test_maze_02.txt' and so on.
 
 
-# **Batch run the robot through the randomly generated maze:**
+### **Batch run the robot through the randomly generated maze:**
 $ python batch_maze_runner.py
 
 
-# **Files included:**
+### **Files included:**
 1. capstone proposal document named proposal.pdf
 2. project report named Project Report - Plot and Navigate a Virtual Maze.pdf
 3. robot.py: the main code developed to include navigation logic
