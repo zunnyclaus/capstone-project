@@ -1,5 +1,5 @@
 # capstone-project
-Plot and Navigate a Virtual Maze
+**##Plot and Navigate a Virtual Maze##**
 
 Overview:
 This project is based off the micromouse competitions and is, in fact, a virtual version of it, wherein a virtual robot mouse is placed in an unknown maze and firstly tries to map out the maze to figure out the optimal path from a corner of maze to its center. In the 2nd run, the virtual robot mouse attempts to reach the center in the fastest time possible by using what it has learned. 
